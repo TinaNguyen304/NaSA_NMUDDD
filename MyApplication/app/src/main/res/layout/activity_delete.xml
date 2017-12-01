@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/RecDel"
+        android:textColor="@color/colorPrimary"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:id="@+id/textView3"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="20dp"
+        android:layout_alignParentTop="true" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:text="@string/select"
+        android:textSize="24dp"
+        android:layout_marginTop="14dp"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/del_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="13dp"
+        android:layout_marginEnd="25dp"
+        android:text="@string/del"
+        android:textSize="18dp"/>
+
+    <Button
+        android:id="@+id/recover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/del_2"
+        android:layout_alignStart="@+id/checkBox2"
+        android:text="@string/recover"
+        android:textSize="18dp"/>
+
+</RelativeLayout>
