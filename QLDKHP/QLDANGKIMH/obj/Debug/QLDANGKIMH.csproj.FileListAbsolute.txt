@@ -1,0 +1,10 @@
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\bin\Debug\QLDANGKIMH.exe.config
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\bin\Debug\QLDANGKIMH.exe
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\bin\Debug\QLDANGKIMH.pdb
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\obj\Debug\QLDANGKIMH.csprojResolveAssemblyReference.cache
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\obj\Debug\QLDANGKIMH.frmHoSoSV.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\obj\Debug\QLDANGKIMH.Properties.Resources.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\obj\Debug\QLDANGKIMH.csproj.GenerateResource.Cache
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\obj\Debug\QLDANGKIMH.exe
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\obj\Debug\QLDANGKIMH.pdb
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\QLDKHP\QLDANGKIMH\obj\Debug\QLDANGKIMH.frmMonHoc.resources
